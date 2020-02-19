@@ -1,0 +1,62 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Titulo Cardapio Home **/
+.cardapio-home .uagb-rm__title-wrap {
+  width: 100% !important;
+  width: 270px !important;
+}
+
+/** Conteúdo >> Preco Cardapio Home **/
+.cardapio-home .uagb-rm__price {
+  width: 100% !important;
+  width: 80px !important;
+}
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> Footer div 3 **/
+.footer-adv-widget-3 {
+  display: none !important;
+}
+
+/** Rodapé >> Rodapé div **/
+.ast-row {
+  display: -webkit-box !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  -webkit-justify-content: space-around !important;
+  justify-content: space-around !important;
+  -webkit-align-items: flex-start !important;
+  align-items: flex-start !important;
+}
+
+/** Rodapé >> Barra do rodape **/
+.ast-footer-overlay {
+  padding: 1rem 0 1rem 0 !important;
+}
+
+
+/*( Celular )*/
+@media (max-width: 480px) {
+
+	/*= Conteúdo ================= */
+
+	/** Conteúdo >> Bem vindo especial **/
+	.uagb-block-006b455f-a289-4811-b4a6-5593460dfe41 .uagb-ifb-title {
+  font-size: 4rem !important;
+}
+
+	/** Conteúdo >> bem vindo mobile **/
+	.uagb-column__background-undefined div {
+  text-align: center !important;
+}
+
+
+}
+
